@@ -154,3 +154,8 @@ cython_debug/
 .vscode
 **.pkl
 **.csv*
+**.txt*
+**tar.gz
+
+scale*data**
+scale_whole_review**
